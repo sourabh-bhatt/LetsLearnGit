@@ -1,2 +1,2 @@
 a=1
-print(a)
+print("This is a",a)
